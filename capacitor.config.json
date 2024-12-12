@@ -1,0 +1,10 @@
+{
+  "appId": "com.debaditya.journey",
+  "appName": "Journey",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}

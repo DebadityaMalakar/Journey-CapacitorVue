@@ -8,7 +8,7 @@ If you wanna plagarise it sure.
 
 I am just gonna add a License to make sure nobody blames me for this montrosity.
 
-<p style="font-size:48px">😭</p>
+# <text style="font-size:48px">😭</text>
 
 ## Created with Capacitor Create App
 
